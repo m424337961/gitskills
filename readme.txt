@@ -7,4 +7,4 @@ creating a new branch is quick AND simple
 
 user2 update
 void main(){
-}
+
